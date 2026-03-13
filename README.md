@@ -21,7 +21,7 @@ This notebook ingests files from an **SFTP server** into a **Microsoft Fabric La
 Follow these steps to run your first sync in just a few minutes.
 
 ### 1) Upload & Attach Lakehouse
-- In Fabric: **Workspace → Notebook → Upload** the `SFTP_to_Lakehouse_Hybrid.ipynb`.
+- In Fabric: **Workspace → Notebook → Upload** the `SFTP_to_Lakehouse_Hybrid_parallel_keyvault.ipynb`.
 - Click **Add Lakehouse** so paths like `/lakehouse/default/Files/...` are available.
 
 ### 2) Install Packages (Cell 2)
